@@ -1,3 +1,3 @@
 @echo off 
-echo nocruf botnet
+echo 
 pause;
